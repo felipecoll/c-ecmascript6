@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Felipe Coll",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
